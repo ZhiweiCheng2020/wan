@@ -1,0 +1,14 @@
+--- menu1.txt	2022-01-12 14:23:09.413964500 +0100
++++ menu2.txt	2022-01-12 14:34:08.032005100 +0100
+@@ -1,6 +1,6 @@
+-Menu1:
++Menu:
+ 
+ Apples
+ Bananas
+-Oranges
+-Pears
+\ No newline at end of file
++Grapes
++Strawberries
+\ No newline at end of file
